@@ -1,0 +1,15 @@
+path: datset
+train: images/train 
+val: images/val
+
+nc: 8 
+
+names:
+0: chair
+1: table 
+2: door 
+3: whiteboard 
+4: couch 
+5: monitor 
+6: backpack 
+7: person 
